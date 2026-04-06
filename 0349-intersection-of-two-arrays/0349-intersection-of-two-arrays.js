@@ -4,11 +4,14 @@
  * @return {number[]}
  */
 var intersection = function(nums1, nums2) {
-    let arr=nums1.filter((item)=>nums2.includes(item))
-    let arr1=[...new Set(arr)]
-   
-    
-    return arr1
-    
+    let NewNums2=new Set(nums2)
+    let result=[]
+    for(let i=0;i<nums1.length;i++){
+        if(NewNums2.has(nums1[i])){
+            result.push(nums1[i])
+            
+        }
+        
+    }let res=[...new Set(result)]
+    return res
 };
-console.log(intersection([1,2,3,],[3]))
