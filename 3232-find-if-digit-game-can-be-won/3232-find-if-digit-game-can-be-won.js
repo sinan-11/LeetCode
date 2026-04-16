@@ -12,5 +12,5 @@ var canAliceWin = function(nums) {
             dsum+=nums[i]
         }
     }
-    return ssum>dsum || dsum>ssum
+    return ssum!=dsum 
 };
