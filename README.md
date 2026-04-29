@@ -12,6 +12,7 @@ problems solved in leetcode
 | [1550-three-consecutive-odds](https://github.com/sinan-11/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/sinan-11/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sinan-11/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2974-minimum-number-game](https://github.com/sinan-11/LeetCode/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sinan-11/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ problems solved in leetcode
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sinan-11/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sinan-11/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2974-minimum-number-game](https://github.com/sinan-11/LeetCode/tree/master/2974-minimum-number-game) |
 ## Counting Sort
 |  |
 | ------- |
@@ -45,4 +47,12 @@ problems solved in leetcode
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/sinan-11/LeetCode/tree/master/1672-richest-customer-wealth) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/sinan-11/LeetCode/tree/master/2974-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/sinan-11/LeetCode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
