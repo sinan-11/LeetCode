@@ -31,6 +31,7 @@ problems solved in leetcode
 | [2469-convert-the-temperature](https://github.com/sinan-11/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sinan-11/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sinan-11/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3516-find-closest-person](https://github.com/sinan-11/LeetCode/tree/master/3516-find-closest-person) |
 ## Sorting
 |  |
 | ------- |
