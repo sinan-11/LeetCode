@@ -18,12 +18,14 @@ problems solved in leetcode
 | [2798-number-of-employees-who-met-the-target](https://github.com/sinan-11/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/sinan-11/LeetCode/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sinan-11/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3668-restore-finishing-order](https://github.com/sinan-11/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sinan-11/LeetCode/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/sinan-11/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sinan-11/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3668-restore-finishing-order](https://github.com/sinan-11/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
 | ------- |
