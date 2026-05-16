@@ -30,6 +30,7 @@ problems solved in leetcode
 |  |
 | ------- |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sinan-11/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2235-add-two-integers](https://github.com/sinan-11/LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/sinan-11/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sinan-11/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sinan-11/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
