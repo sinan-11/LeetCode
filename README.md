@@ -49,6 +49,7 @@ problems solved in leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/sinan-11/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sinan-11/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/sinan-11/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -71,6 +72,7 @@ problems solved in leetcode
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/sinan-11/LeetCode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/sinan-11/LeetCode/tree/master/0709-to-lower-case) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sinan-11/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
