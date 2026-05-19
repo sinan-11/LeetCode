@@ -29,6 +29,7 @@ problems solved in leetcode
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sinan-11/LeetCode/tree/master/0258-add-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sinan-11/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/sinan-11/LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/sinan-11/LeetCode/tree/master/2469-convert-the-temperature) |
@@ -67,6 +68,7 @@ problems solved in leetcode
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sinan-11/LeetCode/tree/master/0258-add-digits) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sinan-11/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2974-minimum-number-game](https://github.com/sinan-11/LeetCode/tree/master/2974-minimum-number-game) |
 ## String
@@ -75,4 +77,8 @@ problems solved in leetcode
 | [0344-reverse-string](https://github.com/sinan-11/LeetCode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/sinan-11/LeetCode/tree/master/0709-to-lower-case) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sinan-11/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sinan-11/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
