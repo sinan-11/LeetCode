@@ -40,6 +40,7 @@ problems solved in leetcode
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sinan-11/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sinan-11/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3516-find-closest-person](https://github.com/sinan-11/LeetCode/tree/master/3516-find-closest-person) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sinan-11/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -86,4 +87,5 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sinan-11/LeetCode/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sinan-11/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
