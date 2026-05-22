@@ -31,6 +31,7 @@ problems solved in leetcode
 | ------- |
 | [0258-add-digits](https://github.com/sinan-11/LeetCode/tree/master/0258-add-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sinan-11/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/sinan-11/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/sinan-11/LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/sinan-11/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/sinan-11/LeetCode/tree/master/2652-sum-multiples) |
@@ -71,6 +72,7 @@ problems solved in leetcode
 | ------- |
 | [0258-add-digits](https://github.com/sinan-11/LeetCode/tree/master/0258-add-digits) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sinan-11/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/sinan-11/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2974-minimum-number-game](https://github.com/sinan-11/LeetCode/tree/master/2974-minimum-number-game) |
 ## String
 |  |
