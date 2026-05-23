@@ -38,6 +38,7 @@ problems solved in leetcode
 | [1822-sign-of-the-product-of-an-array](https://github.com/sinan-11/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sinan-11/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/sinan-11/LeetCode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/sinan-11/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sinan-11/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/sinan-11/LeetCode/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sinan-11/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -95,5 +96,6 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sinan-11/LeetCode/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/sinan-11/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sinan-11/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
