@@ -12,6 +12,7 @@ problems solved in leetcode
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sinan-11/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sinan-11/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1550-three-consecutive-odds](https://github.com/sinan-11/LeetCode/tree/master/1550-three-consecutive-odds) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sinan-11/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/sinan-11/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sinan-11/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/sinan-11/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -91,6 +92,7 @@ problems solved in leetcode
 | ------- |
 | [0344-reverse-string](https://github.com/sinan-11/LeetCode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/sinan-11/LeetCode/tree/master/0709-to-lower-case) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sinan-11/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sinan-11/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
