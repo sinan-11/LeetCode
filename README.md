@@ -20,6 +20,7 @@ problems solved in leetcode
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sinan-11/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sinan-11/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3668-restore-finishing-order](https://github.com/sinan-11/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/sinan-11/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/sinan-11/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@ problems solved in leetcode
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sinan-11/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sinan-11/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2974-minimum-number-game](https://github.com/sinan-11/LeetCode/tree/master/2974-minimum-number-game) |
+| [3701-compute-alternating-sum](https://github.com/sinan-11/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/sinan-11/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## String
 |  |
