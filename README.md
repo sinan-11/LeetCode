@@ -14,6 +14,7 @@ problems solved in leetcode
 | [1550-three-consecutive-odds](https://github.com/sinan-11/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/sinan-11/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sinan-11/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1920-build-array-from-permutation](https://github.com/sinan-11/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sinan-11/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sinan-11/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/sinan-11/LeetCode/tree/master/2974-minimum-number-game) |
@@ -78,6 +79,7 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sinan-11/LeetCode/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/sinan-11/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sinan-11/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sinan-11/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2974-minimum-number-game](https://github.com/sinan-11/LeetCode/tree/master/2974-minimum-number-game) |
