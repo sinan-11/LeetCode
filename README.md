@@ -19,6 +19,7 @@ problems solved in leetcode
 | [2974-minimum-number-game](https://github.com/sinan-11/LeetCode/tree/master/2974-minimum-number-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sinan-11/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sinan-11/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sinan-11/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/sinan-11/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/sinan-11/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/sinan-11/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
@@ -41,6 +42,7 @@ problems solved in leetcode
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sinan-11/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sinan-11/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sinan-11/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sinan-11/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/sinan-11/LeetCode/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sinan-11/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
