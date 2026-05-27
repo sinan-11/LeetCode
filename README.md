@@ -93,6 +93,7 @@ problems solved in leetcode
 | [0344-reverse-string](https://github.com/sinan-11/LeetCode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/sinan-11/LeetCode/tree/master/0709-to-lower-case) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sinan-11/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1678-goal-parser-interpretation](https://github.com/sinan-11/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sinan-11/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
