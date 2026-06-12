@@ -11,6 +11,7 @@ problems solved in leetcode
 | [0977-squares-of-a-sorted-array](https://github.com/sinan-11/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sinan-11/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sinan-11/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sinan-11/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/sinan-11/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/sinan-11/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sinan-11/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -55,6 +56,7 @@ problems solved in leetcode
 | [0349-intersection-of-two-arrays](https://github.com/sinan-11/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/sinan-11/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sinan-11/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sinan-11/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/sinan-11/LeetCode/tree/master/2974-minimum-number-game) |
 ## Counting Sort
 |  |
@@ -78,6 +80,7 @@ problems solved in leetcode
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sinan-11/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/sinan-11/LeetCode/tree/master/2974-minimum-number-game) |
 ## Simulation
 |  |
