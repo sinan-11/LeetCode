@@ -7,6 +7,7 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sinan-11/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/sinan-11/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sinan-11/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/sinan-11/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sinan-11/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -31,6 +32,7 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sinan-11/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/sinan-11/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sinan-11/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sinan-11/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3668-restore-finishing-order](https://github.com/sinan-11/LeetCode/tree/master/3668-restore-finishing-order) |
@@ -54,6 +56,7 @@ problems solved in leetcode
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/sinan-11/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sinan-11/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/sinan-11/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sinan-11/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
