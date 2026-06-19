@@ -42,6 +42,7 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sinan-11/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/sinan-11/LeetCode/tree/master/0412-fizz-buzz) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sinan-11/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sinan-11/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/sinan-11/LeetCode/tree/master/2235-add-two-integers) |
@@ -92,6 +93,7 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sinan-11/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/sinan-11/LeetCode/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/sinan-11/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sinan-11/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sinan-11/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -103,6 +105,7 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sinan-11/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/sinan-11/LeetCode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/sinan-11/LeetCode/tree/master/0709-to-lower-case) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sinan-11/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/sinan-11/LeetCode/tree/master/1678-goal-parser-interpretation) |
